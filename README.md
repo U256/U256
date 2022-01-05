@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @U256
-- 👀 I’m interested in frontend technologies
+- 👋 Hi, I’m Alex.
+- 👀 I’m interested in frontend technologies.
 - 🌱 I’m currently learning depths of React, Next and styling features. Also, I try Svelte and some backend.
 - 💞️ I’m looking to collaborate on people who can offer interesting projects.
 - 📫 How to reach me: chernavtsev.av@gmail.com
